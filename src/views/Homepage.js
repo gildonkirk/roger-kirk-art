@@ -5,7 +5,7 @@ import HomeJumbotron from '../components/Home/HomeJumbotron';
 class Homepage extends Component {
   render() {
     return (
-      <div className="HomepageContainer">
+      <div className="HomepageContainer container">
         <HomeJumbotron />
         <HomeBody />
       </div>
