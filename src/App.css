@@ -2,11 +2,27 @@
   text-align: center;
 }
 
+.carousel {
+  width: 30%;
+  display: inline-block;
+}
+
 .homeBodyContainer {
   text-align: center;
 }
 
-.carousel {
-  width: 50%;
+
+
+.footerList {
+  width: 100%;
   display: inline-block;
+}
+
+.nav-item {
+  float: left;
+  width: 25%;
+}
+
+.homeFooter {
+  text-align: center;
 }
